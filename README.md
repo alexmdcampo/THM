@@ -20,7 +20,7 @@ Vou compartilhar o meu caminho..
 
 # Identificando portas!
 ### nmap
-  ```hnmap  -sV $IP```
+  ```nmap  -sV $IP```
 ![alt text](https://i.imgur.com/Q0EF01b.png)
 
 ### Gobuster 
