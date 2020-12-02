@@ -5,7 +5,7 @@
 
 > Alooow!
 
-> Este é o meu primeiro roteiro do TRM e o desafio foi o ToolsRus
+> Este é o meu primeiro roteiro do THM e o desafio foi o ToolsRus
 Vou compartilhar o meu caminho..
 
 ![alt text](https://i.imgur.com/fAFiFoI.png)
